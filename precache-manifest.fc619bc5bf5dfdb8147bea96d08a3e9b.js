@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e77555cb8556ca0bbce0aeebea3790a5",
+    "revision": "28e9cdc3998de07c536b69239b82eed6",
     "url": "/react-portfolio3/index.html"
   },
   {
-    "revision": "4e862f3ed66dfd5a8c5d",
+    "revision": "1e5a660d4f6ba74d85e6",
     "url": "/react-portfolio3/static/css/2.8aa5a7f8.chunk.css"
   },
   {
-    "revision": "df1a165c27403b096622",
-    "url": "/react-portfolio3/static/css/main.98c4f255.chunk.css"
+    "revision": "d05159658a7bda33866d",
+    "url": "/react-portfolio3/static/css/main.e9aa9abd.chunk.css"
   },
   {
-    "revision": "4e862f3ed66dfd5a8c5d",
-    "url": "/react-portfolio3/static/js/2.723033cb.chunk.js"
+    "revision": "1e5a660d4f6ba74d85e6",
+    "url": "/react-portfolio3/static/js/2.1a4ba6ea.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/react-portfolio3/static/js/2.723033cb.chunk.js.LICENSE.txt"
+    "url": "/react-portfolio3/static/js/2.1a4ba6ea.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df1a165c27403b096622",
-    "url": "/react-portfolio3/static/js/main.cd816fb2.chunk.js"
+    "revision": "d05159658a7bda33866d",
+    "url": "/react-portfolio3/static/js/main.10536ea0.chunk.js"
   },
   {
     "revision": "36d2b8d002c14663a819",
     "url": "/react-portfolio3/static/js/runtime-main.aebab458.js"
+  },
+  {
+    "revision": "4800f7f2b9ede8c8087de30db31be9c2",
+    "url": "/react-portfolio3/static/media/desertculture3-500x300.4800f7f2.png"
   },
   {
     "revision": "ba144dbce63a820c94e6bc96025265a7",
@@ -64,7 +68,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio3/static/media/spotify.4a63d9f0.png"
   },
   {
+    "revision": "65f4ac441bb80874de89627cedf4e7c6",
+    "url": "/react-portfolio3/static/media/sunsbanner2000x200.65f4ac44.png"
+  },
+  {
+    "revision": "9ad9eca0e154c1ac25e0efbf343f7372",
+    "url": "/react-portfolio3/static/media/tactics500x300.9ad9eca0.png"
+  },
+  {
     "revision": "867489fe1218537cbafee9e1a9cbb19a",
     "url": "/react-portfolio3/static/media/tigerbanner2000x200_2.867489fe.png"
+  },
+  {
+    "revision": "024c796361fd811b9c35621ee1bb4f45",
+    "url": "/react-portfolio3/static/media/zlam500x300.024c7963.png"
   }
 ]);
