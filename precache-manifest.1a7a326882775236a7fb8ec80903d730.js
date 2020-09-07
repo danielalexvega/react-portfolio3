@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28e9cdc3998de07c536b69239b82eed6",
+    "revision": "faff9f4a53bf67ed0247cd02d6203476",
     "url": "/react-portfolio3/index.html"
   },
   {
-    "revision": "1e5a660d4f6ba74d85e6",
+    "revision": "b654e9ad3f8fa76f17a5",
     "url": "/react-portfolio3/static/css/2.8aa5a7f8.chunk.css"
   },
   {
-    "revision": "d05159658a7bda33866d",
-    "url": "/react-portfolio3/static/css/main.e9aa9abd.chunk.css"
+    "revision": "53e63bf8042a511b0539",
+    "url": "/react-portfolio3/static/css/main.f6e465fc.chunk.css"
   },
   {
-    "revision": "1e5a660d4f6ba74d85e6",
-    "url": "/react-portfolio3/static/js/2.1a4ba6ea.chunk.js"
+    "revision": "b654e9ad3f8fa76f17a5",
+    "url": "/react-portfolio3/static/js/2.44a7c909.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/react-portfolio3/static/js/2.1a4ba6ea.chunk.js.LICENSE.txt"
+    "url": "/react-portfolio3/static/js/2.44a7c909.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d05159658a7bda33866d",
-    "url": "/react-portfolio3/static/js/main.10536ea0.chunk.js"
+    "revision": "53e63bf8042a511b0539",
+    "url": "/react-portfolio3/static/js/main.02318b9b.chunk.js"
   },
   {
     "revision": "36d2b8d002c14663a819",
     "url": "/react-portfolio3/static/js/runtime-main.aebab458.js"
+  },
+  {
+    "revision": "d3ad97f4d6100c78f1df46af5198f36c",
+    "url": "/react-portfolio3/static/media/crookedNumbers500x300.d3ad97f4.png"
   },
   {
     "revision": "4800f7f2b9ede8c8087de30db31be9c2",
@@ -68,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio3/static/media/spotify.4a63d9f0.png"
   },
   {
-    "revision": "65f4ac441bb80874de89627cedf4e7c6",
-    "url": "/react-portfolio3/static/media/sunsbanner2000x200.65f4ac44.png"
+    "revision": "b2fdb3d42cbf2e523dfe7e9aabba2362",
+    "url": "/react-portfolio3/static/media/sunsbanner2000x200.b2fdb3d4.png"
   },
   {
     "revision": "9ad9eca0e154c1ac25e0efbf343f7372",

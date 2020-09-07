@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio3/static/css/main.e9aa9abd.chunk.css",
-    "main.js": "/react-portfolio3/static/js/main.10536ea0.chunk.js",
-    "main.js.map": "/react-portfolio3/static/js/main.10536ea0.chunk.js.map",
+    "main.css": "/react-portfolio3/static/css/main.f6e465fc.chunk.css",
+    "main.js": "/react-portfolio3/static/js/main.02318b9b.chunk.js",
+    "main.js.map": "/react-portfolio3/static/js/main.02318b9b.chunk.js.map",
     "runtime-main.js": "/react-portfolio3/static/js/runtime-main.aebab458.js",
     "runtime-main.js.map": "/react-portfolio3/static/js/runtime-main.aebab458.js.map",
     "static/css/2.8aa5a7f8.chunk.css": "/react-portfolio3/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.1a4ba6ea.chunk.js": "/react-portfolio3/static/js/2.1a4ba6ea.chunk.js",
-    "static/js/2.1a4ba6ea.chunk.js.map": "/react-portfolio3/static/js/2.1a4ba6ea.chunk.js.map",
+    "static/js/2.44a7c909.chunk.js": "/react-portfolio3/static/js/2.44a7c909.chunk.js",
+    "static/js/2.44a7c909.chunk.js.map": "/react-portfolio3/static/js/2.44a7c909.chunk.js.map",
     "index.html": "/react-portfolio3/index.html",
-    "precache-manifest.fc619bc5bf5dfdb8147bea96d08a3e9b.js": "/react-portfolio3/precache-manifest.fc619bc5bf5dfdb8147bea96d08a3e9b.js",
+    "precache-manifest.1a7a326882775236a7fb8ec80903d730.js": "/react-portfolio3/precache-manifest.1a7a326882775236a7fb8ec80903d730.js",
     "service-worker.js": "/react-portfolio3/service-worker.js",
     "static/css/2.8aa5a7f8.chunk.css.map": "/react-portfolio3/static/css/2.8aa5a7f8.chunk.css.map",
-    "static/css/main.e9aa9abd.chunk.css.map": "/react-portfolio3/static/css/main.e9aa9abd.chunk.css.map",
-    "static/js/2.1a4ba6ea.chunk.js.LICENSE.txt": "/react-portfolio3/static/js/2.1a4ba6ea.chunk.js.LICENSE.txt",
+    "static/css/main.f6e465fc.chunk.css.map": "/react-portfolio3/static/css/main.f6e465fc.chunk.css.map",
+    "static/js/2.44a7c909.chunk.js.LICENSE.txt": "/react-portfolio3/static/js/2.44a7c909.chunk.js.LICENSE.txt",
+    "static/media/crookedNumbers500x300.png": "/react-portfolio3/static/media/crookedNumbers500x300.d3ad97f4.png",
     "static/media/desertculture3-500x300.png": "/react-portfolio3/static/media/desertculture3-500x300.4800f7f2.png",
     "static/media/dnd-website-portfolio.png": "/react-portfolio3/static/media/dnd-website-portfolio.ba144dbc.png",
     "static/media/express-note-taker.png": "/react-portfolio3/static/media/express-note-taker.83fd6967.png",
@@ -30,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.aebab458.js",
     "static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.1a4ba6ea.chunk.js",
-    "static/css/main.e9aa9abd.chunk.css",
-    "static/js/main.10536ea0.chunk.js"
+    "static/js/2.44a7c909.chunk.js",
+    "static/css/main.f6e465fc.chunk.css",
+    "static/js/main.02318b9b.chunk.js"
   ]
 }
